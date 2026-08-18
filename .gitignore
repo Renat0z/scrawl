@@ -1,0 +1,9 @@
+node_modules/
+.env
+.indexer.json
+assets/
+storage/
+*.pdf
+*.png
+*.jpeg
+*.jpg
